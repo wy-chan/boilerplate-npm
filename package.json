@@ -1,6 +1,10 @@
 {
-	"author": "WY-Chan",
 	"name": "fcc-learn-npm-package-json",
+  "author": "WY-Chan",
+  "description": "A project that does something awesome",
+  "keywords": [ "descriptive", "related", "words","freecodecamp" ],
+  "license": "freecodecamp",
+  "version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
